@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>首尔与北九州 · day-03</name><description>2026 私人旅行最终路线；预约待落实，点位参考，不含实时路线、订单与医疗信息。</description><Placemark><name>The Recenz Dongdaemun Hotel</name><description>D3 | 2026-09-28 | 首尔 → 福冈
+9/26–28；383 Cheonho-daero，坐标为附近参考，导航以名称/地址为准；地图坐标为区域/地标参考，请以导航入口为准。
+
+距离为参考点间直线距离，非道路或轨道里程；地面耗时为规划估计，非实时导航。人民币按 ₩1,000＝5 元、JP¥100＝4.8 元估算。
+https://www.google.com/maps/search/?api=1&amp;query=%EB%8D%94%20%EB%A6%AC%EC%84%BC%EC%B8%A0%20%EB%8F%99%EB%8C%80%EB%AC%B8%20%ED%98%B8%ED%85%94%20%EC%84%9C%EC%9A%B8%20%EC%B2%9C%ED%98%B8%EB%8C%80%EB%A1%9C%20383</description><ExtendedData><Data name="Day"><value>D3</value></Data><Data name="Dates"><value>2026-09-28</value></Data><Data name="Regions"><value>首尔 → 福冈</value></Data><Data name="Category"><value>已订酒店</value></Data></ExtendedData><Point><coordinates>127.0616,37.5622,0</coordinates></Point></Placemark><Placemark><name>仁川机场 T2</name><description>D3 | 2026-09-28 | 首尔 → 福冈
+截图航站楼；深夜落地优先保住进城交通；地图坐标为区域/地标参考，请以导航入口为准。
+D3 The Recenz Dongdaemun Hotel → 仁川机场 T2：直线约 56.4 km · 地铁＋机场铁路约 120–150 分钟。长汉坪→孔德→仁川 T2，含候车、换乘和步行；另留起飞前约 3 小时。
+距离为参考点间直线距离，非道路或轨道里程；地面耗时为规划估计，非实时导航。人民币按 ₩1,000＝5 元、JP¥100＝4.8 元估算。
+https://www.google.com/maps/search/?api=1&amp;query=Incheon%20Airport%20Terminal%202</description><ExtendedData><Data name="Day"><value>D3</value></Data><Data name="Dates"><value>2026-09-28</value></Data><Data name="Regions"><value>首尔 → 福冈</value></Data><Data name="Category"><value>机场</value></Data></ExtendedData><Point><coordinates>126.4332,37.4688,0</coordinates></Point></Placemark><Placemark><name>福冈机场国际线</name><description>D3 | 2026-09-28 | 首尔 → 福冈
+导航务必选国际线；不是地铁福冈机场站；地图坐标为区域/地标参考，请以导航入口为准。
+D3 仁川机场 T2 → 福冈机场国际线：直线约 563.9 km · 飞机 KE795约 90 分钟。截图为 16:25–17:55，均当地时间。这里只计计划航班时长，不含机场手续。
+距离为参考点间直线距离，非道路或轨道里程；地面耗时为规划估计，非实时导航。人民币按 ₩1,000＝5 元、JP¥100＝4.8 元估算。
+https://www.google.com/maps/search/?api=1&amp;query=%E7%A6%8F%E5%B2%A1%E7%A9%BA%E6%B8%AF%20%E5%9B%BD%E9%9A%9B%E7%B7%9A%E6%97%85%E5%AE%A2%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB</description><ExtendedData><Data name="Day"><value>D3</value></Data><Data name="Dates"><value>2026-09-28</value></Data><Data name="Regions"><value>首尔 → 福冈</value></Data><Data name="Category"><value>机场</value></Data></ExtendedData><Point><coordinates>130.4432,33.5858,0</coordinates></Point></Placemark><Placemark><name>博多站</name><description>D3 | 2026-09-28 | 首尔 → 福冈
+三条日归路线的铁路起点；酒店实际在唐人町，单程接驳留 35–50 分钟；地图坐标为区域/地标参考，请以导航入口为准。
+D3 福冈机场国际线 → 博多站：直线约 2.1 km · 接驳巴士＋地铁约 40–65 分钟。入境结束起算，国际线接国内线地铁；不含入境、取行李。
+距离为参考点间直线距离，非道路或轨道里程；地面耗时为规划估计，非实时导航。人民币按 ₩1,000＝5 元、JP¥100＝4.8 元估算。
+https://www.google.com/maps/search/?api=1&amp;query=%E5%8D%9A%E5%A4%9A%E9%A7%85%20Hakata%20Station</description><ExtendedData><Data name="Day"><value>D3</value></Data><Data name="Dates"><value>2026-09-28</value></Data><Data name="Regions"><value>首尔 → 福冈</value></Data><Data name="Category"><value>交通</value></Data></ExtendedData><Point><coordinates>130.4207,33.5897,0</coordinates></Point></Placemark><Placemark><name>ShinShin 博多 DEITOS 店</name><description>D3 | 2026-09-28 | 首尔 → 福冈
+D3 抵达晚餐；2F 面街道，两人 JP¥2,500–4,000（约人民币 120–192 元） 规划额；地图坐标为区域/地标参考，请以导航入口为准。
+D3 博多站 → ShinShin 博多 DEITOS 店：直线约 0.1 km · 站内步行约 5–10 分钟。规划时间，含一般候车；不含餐饮、游览和排队。
+距离为参考点间直线距离，非道路或轨道里程；地面耗时为规划估计，非实时导航。人民币按 ₩1,000＝5 元、JP¥100＝4.8 元估算。
+https://www.google.com/maps/search/?api=1&amp;query=%E5%8D%9A%E5%A4%9A%E3%82%89%E3%83%BC%E3%82%81%E3%82%93%20ShinShin%20%E5%8D%9A%E5%A4%9A%E3%83%87%E3%82%A4%E3%83%88%E3%82%B9%E5%BA%97</description><ExtendedData><Data name="Day"><value>D3</value></Data><Data name="Dates"><value>2026-09-28</value></Data><Data name="Regions"><value>首尔 → 福冈</value></Data><Data name="Category"><value>餐厅</value></Data></ExtendedData><Point><coordinates>130.4215,33.5903,0</coordinates></Point></Placemark><Placemark><name>因幡乌冬 博多 DEITOS 店</name><description>D3 | 2026-09-28 | 首尔 → 福冈
+长途回来轻晚餐，或 ShinShin 排队备选；两人 JP¥2,000–3,500（约人民币 96–168 元） 规划额；地图坐标为区域/地标参考，请以导航入口为准。
+
+距离为参考点间直线距离，非道路或轨道里程；地面耗时为规划估计，非实时导航。人民币按 ₩1,000＝5 元、JP¥100＝4.8 元估算。
+https://www.google.com/maps/search/?api=1&amp;query=%E5%9B%A0%E5%B9%A1%E3%81%86%E3%81%A9%E3%82%93%20%E5%8D%9A%E5%A4%9A%E3%83%87%E3%82%A4%E3%83%88%E3%82%B9%E5%BA%97</description><ExtendedData><Data name="Day"><value>D3</value></Data><Data name="Dates"><value>2026-09-28</value></Data><Data name="Regions"><value>首尔 → 福冈</value></Data><Data name="Category"><value>餐厅</value></Data></ExtendedData><Point><coordinates>130.4217,33.5903,0</coordinates></Point></Placemark><Placemark><name>Hotel New Gaea Domemae</name><description>D3 | 2026-09-28 | 首尔 → 福冈
+9/28–10/3；地行 1-4-6，唐人町站附近；参考坐标，入口看导航；地图坐标为区域/地标参考，请以导航入口为准。
+D3 ShinShin 博多 DEITOS 店 → Hotel New Gaea Domemae：直线约 4.9 km · 地铁＋步行约 35–50 分钟。规划时间，含一般候车；不含餐饮、游览和排队。
+距离为参考点间直线距离，非道路或轨道里程；地面耗时为规划估计，非实时导航。人民币按 ₩1,000＝5 元、JP¥100＝4.8 元估算。
+https://www.google.com/maps/search/?api=1&amp;query=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AC%E3%82%A4%E3%82%A2%20%E3%83%89%E3%83%BC%E3%83%A0%E5%89%8D%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%9C%B0%E8%A1%8C1%E4%B8%81%E7%9B%AE4-6</description><ExtendedData><Data name="Day"><value>D3</value></Data><Data name="Dates"><value>2026-09-28</value></Data><Data name="Regions"><value>首尔 → 福冈</value></Data><Data name="Category"><value>已订酒店</value></Data></ExtendedData><Point><coordinates>130.3681,33.5905,0</coordinates></Point></Placemark></Document></kml>

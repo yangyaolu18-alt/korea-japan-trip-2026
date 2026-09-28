@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>首尔与北九州 · segment-korea-first</name><description>2026 私人旅行最终路线；预约待落实，点位参考，不含实时路线、订单与医疗信息。</description><Placemark><name>仁川机场 T1</name><description>D1 | 2026-09-26 | 首尔
+截图航站楼；实际以承运人通知为准；地图坐标为区域/地标参考，请以导航入口为准。
+
+距离为参考点间直线距离，非道路或轨道里程；地面耗时为规划估计，非实时导航。人民币按 ₩1,000＝5 元、JP¥100＝4.8 元估算。
+https://www.google.com/maps/search/?api=1&amp;query=Incheon%20Airport%20Terminal%201</description><ExtendedData><Data name="Day"><value>D1</value></Data><Data name="Dates"><value>2026-09-26</value></Data><Data name="Regions"><value>首尔</value></Data><Data name="Category"><value>机场</value></Data></ExtendedData><Point><coordinates>126.4512,37.4475,0</coordinates></Point></Placemark><Placemark><name>The Recenz Dongdaemun Hotel</name><description>D1, D2 | 2026-09-26, 2026-09-27 | 首尔
+9/26–28；383 Cheonho-daero，坐标为附近参考，导航以名称/地址为准；地图坐标为区域/地标参考，请以导航入口为准。
+D1 仁川机场 T1 → The Recenz Dongdaemun Hotel：直线约 55.3 km · 机场铁路＋地铁约 120–150 分钟。出航站楼后计时；AREX 至孔德转 5 号线到长汉坪，再步行。含候车、换乘，不含入境与取行李。
+D2 弘大入口站 → The Recenz Dongdaemun Hotel：直线约 12.1 km · 地铁＋步行约 60–80 分钟。经孔德换 5 号线；晚间候车、离店及酒店步行留余量。
+距离为参考点间直线距离，非道路或轨道里程；地面耗时为规划估计，非实时导航。人民币按 ₩1,000＝5 元、JP¥100＝4.8 元估算。
+https://www.google.com/maps/search/?api=1&amp;query=%EB%8D%94%20%EB%A6%AC%EC%84%BC%EC%B8%A0%20%EB%8F%99%EB%8C%80%EB%AC%B8%20%ED%98%B8%ED%85%94%20%EC%84%9C%EC%9A%B8%20%EC%B2%9C%ED%98%B8%EB%8C%80%EB%A1%9C%20383</description><ExtendedData><Data name="Day"><value>D1, D2</value></Data><Data name="Dates"><value>2026-09-26, 2026-09-27</value></Data><Data name="Regions"><value>首尔</value></Data><Data name="Category"><value>已订酒店</value></Data></ExtendedData><Point><coordinates>127.0616,37.5622,0</coordinates></Point></Placemark><Placemark><name>景福宫</name><description>D2 | 2026-09-27 | 首尔
+预留 1.5–2 小时；门票常规每人 ₩3,000（约人民币 15 元）；地图坐标为区域/地标参考，请以导航入口为准。
+D2 The Recenz Dongdaemun Hotel → 景福宫：直线约 7.6 km · 地铁＋步行约 45–60 分钟。长汉坪 5 号线至光化门，步行到景福宫入口；含进出站。
+距离为参考点间直线距离，非道路或轨道里程；地面耗时为规划估计，非实时导航。人民币按 ₩1,000＝5 元、JP¥100＝4.8 元估算。
+https://www.google.com/maps/search/?api=1&amp;query=%EA%B2%BD%EB%B3%B5%EA%B6%81%20Gyeongbokgung%20Palace</description><ExtendedData><Data name="Day"><value>D2</value></Data><Data name="Dates"><value>2026-09-27</value></Data><Data name="Regions"><value>首尔</value></Data><Data name="Category"><value>文化</value></Data></ExtendedData><Point><coordinates>126.9769,37.5759,0</coordinates></Point></Placemark><Placemark><name>仁寺洞</name><description>D2 | 2026-09-27 | 首尔
+茶馆、工艺小店；不必每条巷子都走；地图坐标为区域/地标参考，请以导航入口为准。
+D2 景福宫 → 仁寺洞：直线约 0.8 km · 步行约 15–25 分钟。从宫殿南侧入口步行到仁寺洞，边走边逛可更久。
+距离为参考点间直线距离，非道路或轨道里程；地面耗时为规划估计，非实时导航。人民币按 ₩1,000＝5 元、JP¥100＝4.8 元估算。
+https://www.google.com/maps/search/?api=1&amp;query=%EC%9D%B8%EC%82%AC%EB%8F%99%20Insadong%20Seoul</description><ExtendedData><Data name="Day"><value>D2</value></Data><Data name="Dates"><value>2026-09-27</value></Data><Data name="Regions"><value>首尔</value></Data><Data name="Category"><value>街区</value></Data></ExtendedData><Point><coordinates>126.9854,37.574,0</coordinates></Point></Placemark><Placemark><name>弘大入口站</name><description>D2 | 2026-09-27 | 首尔
+9/27 美发区域参考，具体店址待预约；不在此住宿；地图坐标为区域/地标参考，请以导航入口为准。
+D2 仁寺洞 → 弘大入口站：直线约 5.7 km · 地铁＋步行约 40–55 分钟。步行至钟阁等邻近车站，换乘到弘大入口；到具体沙龙另核。
+距离为参考点间直线距离，非道路或轨道里程；地面耗时为规划估计，非实时导航。人民币按 ₩1,000＝5 元、JP¥100＝4.8 元估算。
+https://www.google.com/maps/search/?api=1&amp;query=%ED%99%8D%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20Hongik%20University%20Station</description><ExtendedData><Data name="Day"><value>D2</value></Data><Data name="Dates"><value>2026-09-27</value></Data><Data name="Regions"><value>首尔</value></Data><Data name="Category"><value>街区</value></Data></ExtendedData><Point><coordinates>126.9245,37.5572,0</coordinates></Point></Placemark></Document></kml>

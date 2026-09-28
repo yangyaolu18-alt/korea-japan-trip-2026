@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>首尔与北九州 · alternative-japan-shika</name><description>2026 私人旅行最终路线；预约待落实，点位参考，不含实时路线、订单与医疗信息。</description><Placemark><name>Hotel New Gaea Domemae</name><description>D7 | 2026-10-02 | 福冈市·志贺岛
+9/28–10/3；地行 1-4-6，唐人町站附近；参考坐标，入口看导航；地图坐标为区域/地标参考，请以导航入口为准。
+
+距离为参考点间直线距离，非道路或轨道里程；地面耗时为规划估计，非实时导航。人民币按 ₩1,000＝5 元、JP¥100＝4.8 元估算。
+https://www.google.com/maps/search/?api=1&amp;query=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AC%E3%82%A4%E3%82%A2%20%E3%83%89%E3%83%BC%E3%83%A0%E5%89%8D%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%9C%B0%E8%A1%8C1%E4%B8%81%E7%9B%AE4-6</description><ExtendedData><Data name="Day"><value>D7</value></Data><Data name="Dates"><value>2026-10-02</value></Data><Data name="Regions"><value>福冈市·志贺岛</value></Data><Data name="Category"><value>已订酒店</value></Data></ExtendedData><Point><coordinates>130.3681,33.5905,0</coordinates></Point></Placemark><Placemark><name>博多码头（替换项）</name><description>D7 | 2026-10-02 | 福冈市·志贺岛
+志贺岛渡船起点；铁路通票不覆盖；地图坐标为区域/地标参考，请以导航入口为准。
+D7 Hotel New Gaea Domemae → 博多码头（替换项）：直线约 3.3 km · 地铁/公交＋步行约 35–50 分钟。规划时间，含一般候车；不含餐饮、游览和排队。
+距离为参考点间直线距离，非道路或轨道里程；地面耗时为规划估计，非实时导航。人民币按 ₩1,000＝5 元、JP¥100＝4.8 元估算。
+https://www.google.com/maps/search/?api=1&amp;query=%E5%8D%9A%E5%A4%9A%E3%81%B5%E9%A0%AD%20%E7%AC%AC1%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB</description><ExtendedData><Data name="Day"><value>D7</value></Data><Data name="Dates"><value>2026-10-02</value></Data><Data name="Regions"><value>福冈市·志贺岛</value></Data><Data name="Category"><value>替换项</value></Data></ExtendedData><Point><coordinates>130.3986,33.6058,0</coordinates></Point></Placemark><Placemark><name>志贺岛渡船场（替换项）</name><description>D7 | 2026-10-02 | 福冈市·志贺岛
+替换 10/2 市内日；不和太宰府同日安排；地图坐标为区域/地标参考，请以导航入口为准。
+D7 博多码头（替换项） → 志贺岛渡船场（替换项）：直线约 10 km · 渡船约 30 分钟。另预留 20–40 分钟候船；岛内巴士、自行车或步行另计。
+距离为参考点间直线距离，非道路或轨道里程；地面耗时为规划估计，非实时导航。人民币按 ₩1,000＝5 元、JP¥100＝4.8 元估算。
+https://www.google.com/maps/search/?api=1&amp;query=%E5%BF%97%E8%B3%80%E5%B3%B6%20%E6%B8%A1%E8%88%B9%E5%A0%B4</description><ExtendedData><Data name="Day"><value>D7</value></Data><Data name="Dates"><value>2026-10-02</value></Data><Data name="Regions"><value>福冈市·志贺岛</value></Data><Data name="Category"><value>替换项</value></Data></ExtendedData><Point><coordinates>130.3125,33.6601,0</coordinates></Point></Placemark></Document></kml>

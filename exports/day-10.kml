@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>首尔与北九州 · day-10</name><description>2026 私人旅行最终路线；预约待落实，点位参考，不含实时路线、订单与医疗信息。</description><Placemark><name>Dongdaemun Signature Tourist Hotel</name><description>D10 | 2026-10-05 | 首尔 → 威海 → 南京
+10/3–5；8 Janghan-ro 21-gil，区域参考点，请按订单确认入口；地图坐标为区域/地标参考，请以导航入口为准。
+
+距离为参考点间直线距离，非道路或轨道里程；地面耗时为规划估计，非实时导航。人民币按 ₩1,000＝5 元、JP¥100＝4.8 元估算。
+https://www.google.com/maps/search/?api=1&amp;query=%EB%8F%99%EB%8C%80%EB%AC%B8%20%EC%8B%9C%EA%B7%B8%EB%8B%88%EC%B2%98%20%EA%B4%80%EA%B4%91%ED%98%B8%ED%85%94%20%EC%84%9C%EC%9A%B8%20%EC%9E%A5%ED%95%9C%EB%A1%9C21%EA%B8%B8%208</description><ExtendedData><Data name="Day"><value>D10</value></Data><Data name="Dates"><value>2026-10-05</value></Data><Data name="Regions"><value>首尔 → 威海 → 南京</value></Data><Data name="Category"><value>已订酒店</value></Data></ExtendedData><Point><coordinates>127.071,37.5718,0</coordinates></Point></Placemark><Placemark><name>仁川机场 T1</name><description>D10 | 2026-10-05 | 首尔 → 威海 → 南京
+截图航站楼；实际以承运人通知为准；地图坐标为区域/地标参考，请以导航入口为准。
+D10 Dongdaemun Signature Tourist Hotel → 仁川机场 T1：直线约 56.4 km · 地铁＋机场铁路约 120–150 分钟。含酒店至车站、换乘和候车；08:00 出发，目标约 10:00–10:30 抵达 T1，与当天时间轴一致。
+距离为参考点间直线距离，非道路或轨道里程；地面耗时为规划估计，非实时导航。人民币按 ₩1,000＝5 元、JP¥100＝4.8 元估算。
+https://www.google.com/maps/search/?api=1&amp;query=Incheon%20Airport%20Terminal%201</description><ExtendedData><Data name="Day"><value>D10</value></Data><Data name="Dates"><value>2026-10-05</value></Data><Data name="Regions"><value>首尔 → 威海 → 南京</value></Data><Data name="Category"><value>机场</value></Data></ExtendedData><Point><coordinates>126.4512,37.4475,0</coordinates></Point></Placemark></Document></kml>
